@@ -1,3 +1,7 @@
+---
+order: 6
+---
+
 # Table of contents
 
 * [Подать заявку на экзамен](README.md)

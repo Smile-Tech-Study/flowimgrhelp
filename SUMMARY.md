@@ -5,7 +5,7 @@ title: Содержание
 
 -  [Подать заявку на экзамен](./README)
 
--  [ЛК сдающего. Поэтапное заполнение документов](./lk-sdayushego.-poetapnoe-zapolnenie-dokumentov)
+-  ЛК сдающего. Поэтапное заполнение документов
 
 -  [Приглашение на экзамен](./priglashenie-na-ekzamen)
 
@@ -16,5 +16,3 @@ title: Содержание
 -  [Тестирование](./testirovanie)
 
 -  [Устная часть (РВП/ВНЖ)](./ustnaya-chast-rvp-vnzh)
-
-

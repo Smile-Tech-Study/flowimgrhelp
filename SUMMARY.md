@@ -5,7 +5,7 @@ title: Содержание
 
 -  [Подать заявку на экзамен](./README)
 
--  [ЛК сдающего. Поэтапное заполнение документов](./lk-sdayushego.-poetapnoe-zapolnenie-dokumentov)
+-  [ЛК сдающего. Поэтапное заполнение документов](https://www.flow-crm.study/flowimgrhelp/lk-sdayushego.-poetapnoe-zapolnenie-dokumentov)
 
 -  [Приглашение на экзамен](./priglashenie-na-ekzamen)
 

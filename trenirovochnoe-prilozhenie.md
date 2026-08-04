@@ -11,10 +11,12 @@ title: Тренировочное приложение
 
 ![](./trenirovochnoe-prilozhenie-3.png){width=1834px height=1050px}
 
-Укажите тот уровень экзамена, по которому вы планируете проходить подготовку.
+Укажите тот уровень экзамена, по которому планируете проходить подготовку.
 
-![](./trenirovochnoe-prilozhenie.png){width=1324px height=1098px}
+![](./trenirovochnoe-prilozhenie.png){width=1160px height=1140px}
 
 Все дальнейшие действия выполняйте согласно инструкциям, которые будет показывать приложение.
+
+![](./trenirovochnoe-prilozhenie-2.png){width=2948px height=1426px}
 
 **Желаем успешной подготовки!**

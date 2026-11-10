@@ -5,24 +5,40 @@ title: Тренировочное приложение
 
 **Инструкция по работе с тренировочным приложением**
 
-:::note 
+:::note
 
-**Внимание**: тренировочное приложение работает **только  на компьютере Windows**. Установка на другие системы в настоящее время невозможна.
+**Внимание**: тренировочное приложение работает в операционных системах **Windows или Linux.**
 
 :::
+
+[tabs]
+
+[tab:Для Windows]
 
 Перейдите[ **по ссылке** ](https://storage.yandexcloud.net/odin-exam-app/demo/win32/x64/Odin-0.0.0.exe)и сохраните тренировочное приложение на своё устройство.
 
 Найдите сохранённый файл, дважды кликните по нему левой кнопкой мыши для открытия. Дождитесь полной загрузки программы, это может занять несколько минут.
 
-![](./trenirovochnoe-prilozhenie-3.png){width=1834px height=1050px}
+![](./trenirovochnoe-prilozhenie-4.png){width=1834px height=1050px}
 
 Укажите тот уровень экзамена, по которому планируете проходить подготовку.
 
-![](./trenirovochnoe-prilozhenie.png){width=1160px height=1140px}
+![](./trenirovochnoe-prilozhenie-5.png){width=1160px height=1140px}
 
 Все дальнейшие действия выполняйте согласно инструкциям, которые будет показывать приложение.
 
-![](./trenirovochnoe-prilozhenie-2.png){width=2948px height=1426px}
+![](./trenirovochnoe-prilozhenie-6.png){width=2948px height=1426px}
+
+[/tab]
+
+[tab:Для Linux]
+
+Перейдите по [ссылке](https://storage.yandexcloud.net/odin-exam-app/demo/linux/x64/Odin-0.0.0.AppImage) и сохраните тренировочное приложение на своё устройство.
+
+[/tab]
+
+[/tabs]
+
+
 
 **Желаем успешной подготовки!**
